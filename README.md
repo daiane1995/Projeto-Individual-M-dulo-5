@@ -7,7 +7,7 @@
 <h4> Contextualizando: </h4>
 Criação de um código usando o NodeJS que vai receber uma lista de propriedades CSS e irá retornar a mesma lista de forma ordenada, em ordem alfabética. O código irá rodar em um laço que vai receber propriedades até que a palavra SAIR seja digitada, para que encerre as inserções. Após, será impresso no terminal a lista de propriedades de forma ordenada e individualmente em cada linha. Desse modo, ordenar o CSS ajuda a encontrar mais rápido a propriedade que precisamos alterar. 
 
-<h4 id="aqui"> Como executar o código? </h4>
+<h4 id="aqui"> Como executar o código </h4>
 ⇨ Baixar este arquivo e abrir no VSCode;<br>
 ⇨ Abrir o terminal;<br>
 ⇨ Executar o comando "npm install readline-sync";<br>
@@ -19,7 +19,7 @@ Criação de um código usando o NodeJS que vai receber uma lista de propriedade
 **Dica: Ao inserir as propriedades, finalize com ponto e vírgula (;) para que o texto não seja jogado para a linha de baixo**<br>
 
 <div align="center">
-  <img width="80%" src="C:\Users\Daianne\Desktop\Projeto-individual-M 5 Atual\img\Executando.jpeg" />
+  <img width="80%" src="![Executando](https://user-images.githubusercontent.com/113690388/217394543-f4427875-2430-4044-8428-3c061a4ed53f.jpeg)" />
 </div>
 
 <h2 id="ferramentas">Ferramentas que utilizei:</h2>
