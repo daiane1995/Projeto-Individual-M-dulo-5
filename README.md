@@ -19,7 +19,7 @@ Criação de um código usando o NodeJS que vai receber uma lista de propriedade
 **Dica: Ao inserir as propriedades, finalize com ponto e vírgula (;) para que o texto não seja jogado para a linha de baixo**<br>
 
 <div align="center">
-  <img src="![Executando](https://user-images.githubusercontent.com/113690388/217395314-e54cb8d5-1e58-4eeb-bc3b-2b355f9f5364.jpeg)" width= "0px" />
+  <img width="80%" src="![Executando](https://user-images.githubusercontent.com/113690388/217400027-531ee60e-2b94-46b7-9b1f-4913acad105e.png)" />
 </div>
 
 <h2 id="ferramentas">Ferramentas que utilizei:</h2>
