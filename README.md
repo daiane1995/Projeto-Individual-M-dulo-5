@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="80%" src="https://img.freepik.com/vetores-gratis/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_39422-971.jpg?w=740&t=st=1675811863~exp=1675812463~hmac=b19c3eee1d4446c2039f6cc78e9117712e07744b5481ee5dd320745c44a93643" />
+  <img width="60%" src="https://img.freepik.com/vetores-gratis/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_39422-971.jpg?w=740&t=st=1675811863~exp=1675812463~hmac=b19c3eee1d4446c2039f6cc78e9117712e07744b5481ee5dd320745c44a93643" />
 </div>
 
 <h2 id="Infos">Informações sobre o projeto: </h2>
