@@ -24,9 +24,9 @@ Criação de um código usando o NodeJS que vai receber uma lista de propriedade
 
 <h2 id="ferramentas">Ferramentas que utilizei:</h2>
 
-  - VSCode
-  - NodeJS
-  - Github
+  - VSCode;
+  - NodeJS;
+  - Github.
 <br>
 
 <div align="center">
